@@ -1,13 +1,12 @@
 # Degree
-- degree: Bachelor of Technology, Computers and Communication Engineering
+- degree: B.Tech, Computers and Communication Engineering
   uni: Manipal Institute of Technology (MAHE)
   year: 2019 &mdash; 2023
   # awards:
   #   - award: Summa Cumme Laude graduate
-  # summary: If you had any meaningful roles at college, feel free to write about them here
-
-- degree: High School Diploma
-  uni: Nehru Smaraka Vidyalaya School
-  year: 2019
-  award: CBSE Curriculum
+  summary: <ul class="resume-item-list"><li>AI Based Research Project in final semester.</li><li>College Representative in Badminton.</li></ul>
+# - degree: High School Diploma
+#   uni: Nehru Smaraka Vidyalaya School
+#   year: 2019
+#   award: CBSE Curriculum
   # summary: You can choose to have either a single or multiple awards
