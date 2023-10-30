@@ -2,15 +2,16 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Conversational Q&A Dataset
+  role: AI(NLP), Python
+  # duration: 2012 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: <ul class="resume-item-list"><li>Designed wireframes and mockups for diverse web pages.</li><li>Developed various web pages, translating design concepts into interactive user interfaces using HTML, CSS, CSS Frameworks (Bootstrap), JavaScript.</li><li>Implemented changes in the website's UI, enhancing user experience and visual appeal.</li></ul>
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Restaurant Website  
+  role: HTML, CSS(Bootstrap), Javascript
+  # duration: 2007 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: <ul class="resume-item-list"><li>Developed a dynamic front-end webpage for a restaurant using HTML and CSS, with a focus on Bootstrap's CSS and JavaScript components.</li><li>Implemented Bootstrap's CSS framework to create responsive and mobile-friendly layouts, ensuring seamless user experience across devices and its JavaScript components to add dynamic features such as modals, carousels, and form validations.</li><li>Applied custom CSS styles to tailor the design to the restaurant's branding and theme, ensuring a unique and cohesive look.</li></ul>
+
